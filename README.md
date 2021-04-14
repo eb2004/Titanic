@@ -1,1 +1,1 @@
-Titanic competition
+Titanic project
